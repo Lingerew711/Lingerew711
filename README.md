@@ -24,7 +24,7 @@
 - 🔭 I’m currently working as a freelance web and mobile app developer
 - 🌱 I’m currently Software Engineering student at AAiT
 - 💬 Ask me about any Development related staff
-- 📫 How to reach me [instagram - @linge446] https://www.instagram.com/linge446/
+- 📫 How to reach me [Instagram] https://www.instagram.com/linge446/
 
 <h2>Tools & Technologies</h2>
 <p>
