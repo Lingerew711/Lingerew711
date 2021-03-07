@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lingerew711&label=Views&color=blue&style=plastic" alt="Lingerew711" /> </p>
 
 <p>
-<a href="https://https://www.linkedin.com/in/lingerew-getie-404aa7208/">
+<a href="https://https://www.linkedin.com/in/lingerew-getie/">
   <img align="left" alt="Lingerew's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Lingerew711">
