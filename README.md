@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as a freelance web and mobile app developer
+- 🔭 I’m currently working as an intermidiate front end web app developer at Gebeya Inc and androisd mobile app developer
 - 🌱 I’m currently Software Engineering student at AAiT
 - 💬 Ask me about any Development related staff
 - 📫 How to reach me [Instagram] https://www.instagram.com/linge446/
