@@ -22,7 +22,7 @@
 <br/>
 
 - 🔭 I’m currently working as an intermidiate front end web app developer at Gebeya Inc and android mobile app developer
-- 🌱 I’m Software Engineer (2023 AAir Graduate)
+- 🌱 I’m Software Engineer (2023 AAiT Graduate)
 - 💬 Ask me about any Development related staff
 - 📫 How to reach me [Instagram] https://www.instagram.com/linge446/
 
